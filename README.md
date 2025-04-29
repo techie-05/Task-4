@@ -1,0 +1,16 @@
+- **Objective**: Build a binary classification model using logistic regression for breast cancer classification.  
+- **Data Preprocessing**:  
+  - Handled null values to maintain data integrity.  
+  - Removed unnecessary columns to focus on relevant features.  
+  - Standardized features for improved model performance.  
+- **Model Training**:  
+  - Applied logistic regression to distinguish between malignant and benign cases.  
+  - Used the **sigmoid function** to convert linear outputs into probabilities.  
+- **Model Evaluation**:  
+  - Plotted the **ROC-AUC curve** to visualize classification performance.  
+  - Used a **confusion matrix** to assess model accuracy.  
+- **Threshold Tuning**:  
+  - Adjusted the classification boundary to optimize predictions.  
+- **Conclusion**:  
+  - This structured approach improves breast cancer classification.  
+  - The model provides insights valuable for early diagnosis and medical decision-making.   
